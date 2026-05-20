@@ -57,11 +57,11 @@ Hozirda veb-ilovalardagi zaifliklarni aniqlash, tarmoqlarni xavfsiz skanerlash v
 
 <div align="left">
 
-<a href="https://t.me/SizningTelegramUsernamiz" target="_blank">
+<a href="https://t.me/wkrxnva07" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=FF69B4"/>
 </a>
 
-<a href="mailto:sizning_emailingiz@gmail.com" target="_blank">
+<a href="" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=9C27B0"/>
 </a>
 
