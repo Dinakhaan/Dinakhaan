@@ -38,16 +38,11 @@ Hozirda veb-ilovalardagi zaifliklarni aniqlash, tarmoqlarni xavfsiz skanerlash v
 # 📊 My Cyber Activity
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Dinakhaan&show_icons=true&theme=rose&hide_border=true"/>
-      </td>
-      <td>
-        <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dinakhaan&theme=rose&hide_border=true"/>
-      </td>
-    </tr>
-  </table>
+  <img height="180em" src="https://github-readme-stats.vercel.com/api/top-langs/?username=SizningGitHubNomiz&layout=compact&theme=rose&hide_border=true" />
+</div>
+
+<div align="center" style="margin-top: 15px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SizningGitHubNomiz&theme=rose" width="100%" />
 </div>
 
 # 🌱 Focus & Interests / Hozirgi Maqsadlarim
