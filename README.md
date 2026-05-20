@@ -35,24 +35,20 @@ Hozirda veb-ilovalardagi zaifliklarni aniqlash, tarmoqlarni xavfsiz skanerlash v
 ### ⚙️ Tools I Use
 `Nmap` | `Burp Suite` | `Wireshark` | `Metasploit` | `Git`
 
----
-
 # 📊 My Cyber Activity
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SizningGitHubNomiz&show_icons=true&theme=rose&hide_border=true"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Dinakhaan&show_icons=true&theme=rose&hide_border=true"/>
       </td>
       <td>
-        <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=SizningGitHubNomiz&theme=rose&hide_border=true"/>
+        <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dinakhaan&theme=rose&hide_border=true"/>
       </td>
     </tr>
   </table>
 </div>
-
----
 
 # 🌱 Focus & Interests / Hozirgi Maqsadlarim
 
@@ -76,10 +72,16 @@ Hozirda veb-ilovalardagi zaifliklarni aniqlash, tarmoqlarni xavfsiz skanerlash v
 
 </div>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SizningGitHubNomiz&label=Profile+Views&style=flat-square&color=FF69B4"/>
+  <img src="https://komarev.com/ghpvc/?username=Dinakhaan&label=Profile+Views&style=flat-square&color=FF69B4"/>
 </p>
 
 <p align="center">⭐ Star my repositories if you like my cyber journey! ⭐</p>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinakhaan&theme=react-dark&hide_border=true&days=30"/>
+</div>
