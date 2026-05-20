@@ -64,11 +64,6 @@ Hozirda veb-ilovalardagi zaifliklarni aniqlash, tarmoqlarni xavfsiz skanerlash v
 </a>
 
 
-
-<a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=9C27B0"/>
-</a>
-
 </div>
 
 <p align="center">
