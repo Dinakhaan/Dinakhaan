@@ -59,7 +59,7 @@ Hozirda veb-ilovalardagi zaifliklarni aniqlash, tarmoqlarni xavfsiz skanerlash v
 
 <a href="https://t.me/wkrxnva07" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=FF69B4"/>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=yescrypt@mail.ru" target="_blank" rel="noopener noreferrer">
+<a href="https://shomaxsudovaodina@gmail.com" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
